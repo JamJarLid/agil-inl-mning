@@ -1,0 +1,24 @@
+Bakgrund: Som en medlem i en processdriven
+mjukvaru-utvecklingsorganisation kan du på ett metodiskt sätt sträva
+efter förbättring, med ökad förutsägbarhet, replikerbarhet och mätbarhet.
+
+Frågeställning: Hur kan du på ett metodiskt sätt förbättra organisationens
+mjukvaruutveckling på ett sätt som gynnar organisationen långsiktigt?
+
+Ämnesförslag: Delivery - den bortglömda delen i SCRUM
+
+Bakgrund/Problemformulering: Under praktiken arbetade utvecklingsteamet enligt SCRUM, och använde sprints för att avgränsa tiden. En del som föll mellan stolarna och behövdes göras paralellt med nästföljande sprint var att faktiskt leverera produkten/featuren till kunden. 
+Detta ledde till en mindre effektiv utveckling när en av utvecklarna sitter upptagen i möten med kund. 
+
+Metod/Teknik för lösning: Continuous Delivery? DevOps metoder som kan vara relevanta.
+Kan en Devops person hjälpa till att förbereda deliveryn under sprinten?
+
+What is Continuous Delivery?
+
+How can Contiuous Delivery solve out problems?
+
+Continuous Delivery vs Continuous Deployments:
+
+The risks and challenges of CD.
+
+Is CD always viable?
